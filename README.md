@@ -1,3 +1,6 @@
+## 📊 Live Tableau Dashboard
+[View Interactive SCM Procurement Dashboard on Tableau Public](https://public.tableau.com/app/profile/sourav.dixit2954/viz/SCMAnalyticsDSS-ProcurementDashboard/SCMDashboard?publish=yes)
+
 # SCM Analytics DSS — Supply Chain Decision Support System
 
 **Analytics-Based Decision Support System for Supply Chain Management**  
