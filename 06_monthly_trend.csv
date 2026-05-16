@@ -1,0 +1,49 @@
+year_month,material_category,project_name,po_count,total_qty,total_value_inr,total_value_lakhs,on_time_count,on_time_pct,amendments
+2024-10,Civil Materials,Civil Works – Odisha,1,52,309151.96,3.09,1,100.0,0
+2024-10,HT/LT Cables,Solar Farm – Jharkhand,1,95,32463.4,0.32,1,100.0,0
+2024-10,Inverters / PCUs,Solar Rooftop – Siliguri,1,25,9731491.25,97.31,1,100.0,1
+2024-10,Inverters / PCUs,Civil Works – Odisha,1,91,35113027.95,351.13,1,100.0,0
+2024-10,Solar PV Modules,Solar Rooftop – Siliguri,1,79,1550061.37,15.5,1,100.0,0
+2024-10,Solar PV Modules,Civil Works – Odisha,1,64,1183082.88,11.83,1,100.0,0
+2024-10,Switchgear / Protection Equip,Grid Infra – Purulia,1,44,5549802.28,55.5,1,100.0,0
+2024-10,Switchgear / Protection Equip,Solar Farm – Jharkhand,1,38,5023659.66,50.24,1,100.0,0
+2024-11,Earthing Materials,Civil Works – Odisha,1,50,68133.5,0.68,1,100.0,0
+2024-11,HT/LT Cables,Solar Farm – Jharkhand,1,20,6605.6,0.07,1,100.0,0
+2024-11,Inverters / PCUs,Civil Works – Odisha,1,145,57049369.85,570.49,1,100.0,0
+2024-11,Mounting Structures (Al),Grid Infra – Purulia,1,157,9177241.89,91.77,1,100.0,0
+2024-11,Mounting Structures (Al),Solar Rooftop – Siliguri,1,85,5069071.05,50.69,1,100.0,0
+2024-11,Solar PV Modules,Solar Rooftop – Siliguri,1,102,1786920.66,17.87,1,100.0,0
+2024-11,Solar PV Modules,Civil Works – Odisha,1,6,114512.04,1.15,1,100.0,0
+2024-11,Switchgear / Protection Equip,Solar Farm – Bankura,1,31,3952041.51,39.52,1,100.0,0
+2024-12,Civil Materials,Grid Infra – Purulia,1,67,414585.28,4.15,0,0.0,0
+2024-12,Civil Materials,Solar Rooftop – Siliguri,1,164,1097939.0,10.98,1,100.0,1
+2024-12,Civil Materials,Civil Works – Odisha,1,85,517002.3,5.17,1,100.0,0
+2024-12,Earthing Materials,Solar Farm – Bankura,1,72,88010.64,0.88,1,100.0,0
+2024-12,Earthing Materials,Solar Rooftop – Siliguri,1,107,142210.49,1.42,1,100.0,0
+2024-12,HT/LT Cables,Solar Farm – Jharkhand,1,24,8222.16,0.08,1,100.0,0
+2024-12,Inverters / PCUs,Solar Rooftop – Siliguri,1,5,2174842.05,21.75,1,100.0,0
+2024-12,Mounting Structures (Al),Solar Farm – Jharkhand,1,148,9209165.32,92.09,1,100.0,0
+2024-12,Solar PV Modules,Solar Farm – Bankura,1,193,3383772.5,33.84,1,100.0,0
+2025-01,Civil Materials,Solar Farm – Jharkhand,1,174,1125612.96,11.26,0,0.0,0
+2025-01,Earthing Materials,Grid Infra – Purulia,1,63,78944.67,0.79,1,100.0,0
+2025-01,HT/LT Cables,Solar Farm – Bankura,1,32,10687.68,0.11,1,100.0,0
+2025-01,Mounting Structures (Al),Civil Works – Odisha,1,135,8351583.3,83.52,0,0.0,0
+2025-01,Solar PV Modules,Solar Farm – Jharkhand,1,95,1689640.55,16.9,1,100.0,0
+2025-01,Switchgear / Protection Equip,Civil Works – Odisha,1,24,3295815.6,32.96,1,100.0,1
+2025-02,Civil Materials,Solar Farm – Bankura,1,19,112677.79,1.13,1,100.0,0
+2025-02,Civil Materials,Solar Farm – Jharkhand,1,15,95838.3,0.96,1,100.0,0
+2025-02,HT/LT Cables,Solar Farm – Bankura,1,28,10190.6,0.1,1,100.0,0
+2025-02,HT/LT Cables,Solar Farm – Jharkhand,1,151,52618.97,0.53,1,100.0,0
+2025-02,Inverters / PCUs,Solar Rooftop – Siliguri,1,158,63487057.56,634.87,1,100.0,0
+2025-02,Inverters / PCUs,Civil Works – Odisha,1,81,34754175.09,347.54,1,100.0,0
+2025-02,Mounting Structures (Al),Civil Works – Odisha,1,179,11628980.23,116.29,0,0.0,0
+2025-02,Solar PV Modules,Solar Farm – Bankura,1,25,464903.25,4.65,0,0.0,0
+2025-02,Switchgear / Protection Equip,Solar Farm – Bankura,1,37,4524953.11,45.25,1,100.0,0
+2025-03,Earthing Materials,Solar Rooftop – Siliguri,2,336,416693.92,4.17,2,100.0,0
+2025-03,Earthing Materials,Civil Works – Odisha,1,22,30225.58,0.3,1,100.0,0
+2025-03,HT/LT Cables,Solar Farm – Bankura,1,13,4693.0,0.05,1,100.0,0
+2025-03,Inverters / PCUs,Grid Infra – Purulia,1,107,46774473.27,467.74,1,100.0,0
+2025-03,Mounting Structures (Al),Solar Farm – Bankura,1,67,3969467.26,39.69,1,100.0,0
+2025-03,Mounting Structures (Al),Civil Works – Odisha,1,19,1135560.65,11.36,1,100.0,0
+2025-03,Switchgear / Protection Equip,Grid Infra – Purulia,1,130,16351225.8,163.51,1,100.0,1
+2025-03,Switchgear / Protection Equip,Solar Rooftop – Siliguri,1,146,18480922.36,184.81,1,100.0,0

@@ -1,0 +1,50 @@
+inv_id,project_name,project_state,material_category,grn_date,received_qty,system_qty,issued_qty,balance_qty,unit,days_of_cover,accuracy_flag,replenish_alert,accuracy_status,replenish_status,stock_health,utilisation_pct
+INV0019,Civil Works – Odisha,Odisha,Inverters / PCUs,2024-12-02,145,145,145,0,piece,0,1,1,Accurate,Replenish Now,Critical,100.0
+INV0003,Civil Works – Odisha,Odisha,Solar PV Modules,2024-12-21,6,6,6,0,piece,0,1,1,Accurate,Replenish Now,Critical,100.0
+INV0032,Solar Farm – Jharkhand,Jharkhand,Civil Materials,2025-03-01,15,15,15,0,MT,0,1,1,Accurate,Replenish Now,Critical,100.0
+INV0017,Solar Rooftop – Siliguri,West Bengal,Inverters / PCUs,2025-03-16,158,158,156,2,piece,0,1,1,Accurate,Replenish Now,Critical,98.7
+INV0047,Solar Farm – Bankura,West Bengal,Earthing Materials,2024-12-13,72,72,70,2,piece,1,1,1,Accurate,Replenish Now,Critical,97.2
+INV0015,Solar Rooftop – Siliguri,West Bengal,Inverters / PCUs,2025-01-10,5,5,4,1,piece,1,1,1,Accurate,Replenish Now,Critical,80.0
+INV0029,Solar Farm – Jharkhand,Jharkhand,Civil Materials,2025-02-07,174,174,170,4,MT,1,1,1,Accurate,Replenish Now,Critical,97.7
+INV0007,Solar Farm – Jharkhand,Jharkhand,Solar PV Modules,2025-02-17,95,95,92,3,piece,1,1,1,Accurate,Replenish Now,Critical,96.8
+INV0005,Solar Farm – Bankura,West Bengal,Solar PV Modules,2025-03-15,25,25,24,1,piece,1,1,1,Accurate,Replenish Now,Critical,96.0
+INV0028,Solar Farm – Jharkhand,Jharkhand,HT/LT Cables,2024-12-08,20,20,18,2,meter,2,1,1,Accurate,Replenish Now,Critical,90.0
+INV0034,Solar Rooftop – Siliguri,West Bengal,Civil Materials,2024-12-25,164,166,155,11,MT,2,0,1,Mismatch,Replenish Now,Critical,94.5
+INV0027,Solar Farm – Bankura,West Bengal,HT/LT Cables,2025-03-02,28,28,26,2,meter,2,1,1,Accurate,Replenish Now,Critical,92.9
+INV0022,Solar Farm – Bankura,West Bengal,HT/LT Cables,2025-03-19,13,13,11,2,meter,2,1,1,Accurate,Replenish Now,Critical,84.6
+INV0021,Civil Works – Odisha,Odisha,Inverters / PCUs,2024-11-23,91,91,82,9,piece,3,1,1,Accurate,Replenish Now,Critical,90.1
+INV0030,Solar Farm – Bankura,West Bengal,Civil Materials,2025-02-21,19,19,16,3,MT,3,1,1,Accurate,Replenish Now,Critical,84.2
+INV0018,Solar Rooftop – Siliguri,West Bengal,Inverters / PCUs,2024-11-07,25,25,21,4,piece,4,1,1,Accurate,Replenish Now,Low,84.0
+INV0042,Solar Farm – Bankura,West Bengal,Switchgear / Protection Equip,2024-12-25,31,31,27,4,piece,4,1,1,Accurate,Replenish Now,Low,87.1
+INV0001,Solar Farm – Bankura,West Bengal,Solar PV Modules,2024-12-31,193,193,170,23,piece,4,1,1,Accurate,Replenish Now,Low,88.1
+INV0012,Civil Works – Odisha,Odisha,Mounting Structures (Al),2025-01-19,135,135,119,16,MT,4,1,1,Accurate,Replenish Now,Low,88.1
+INV0048,Solar Rooftop – Siliguri,West Bengal,Earthing Materials,2025-03-15,152,152,134,18,piece,4,1,1,Accurate,Replenish Now,Low,88.2
+INV0024,Solar Farm – Jharkhand,Jharkhand,HT/LT Cables,2024-11-02,95,95,81,14,meter,5,1,1,Accurate,Replenish Now,Low,85.3
+INV0004,Solar Rooftop – Siliguri,West Bengal,Solar PV Modules,2024-12-18,102,102,87,15,piece,5,1,1,Accurate,Replenish Now,Low,85.3
+INV0046,Solar Rooftop – Siliguri,West Bengal,Earthing Materials,2024-12-19,107,107,92,15,piece,5,1,1,Accurate,Replenish Now,Low,86.0
+INV0040,Civil Works – Odisha,Odisha,Switchgear / Protection Equip,2025-02-17,24,24,19,5,piece,5,1,1,Accurate,Replenish Now,Low,79.2
+INV0041,Solar Farm – Bankura,West Bengal,Switchgear / Protection Equip,2025-03-29,37,37,32,5,piece,5,1,1,Accurate,Replenish Now,Low,86.5
+INV0049,Civil Works – Odisha,Odisha,Earthing Materials,2025-04-01,22,22,17,5,piece,5,1,1,Accurate,Replenish Now,Low,77.3
+INV0009,Civil Works – Odisha,Odisha,Mounting Structures (Al),2025-04-08,19,19,14,5,MT,5,1,1,Accurate,Replenish Now,Low,73.7
+INV0026,Solar Farm – Jharkhand,Jharkhand,HT/LT Cables,2024-12-22,24,24,18,6,meter,6,1,1,Accurate,Replenish Now,Low,75.0
+INV0036,Solar Rooftop – Siliguri,West Bengal,Switchgear / Protection Equip,2025-04-16,146,146,124,22,piece,6,1,1,Accurate,Replenish Now,Low,84.9
+INV0002,Civil Works – Odisha,Odisha,Solar PV Modules,2024-10-27,64,64,50,14,piece,7,1,0,Accurate,OK,Low,78.1
+INV0006,Solar Rooftop – Siliguri,West Bengal,Solar PV Modules,2024-11-05,79,79,65,14,piece,7,1,0,Accurate,OK,Low,82.3
+INV0013,Grid Infra – Purulia,West Bengal,Mounting Structures (Al),2024-11-28,157,157,126,31,MT,8,1,0,Accurate,OK,Adequate,80.3
+INV0010,Solar Rooftop – Siliguri,West Bengal,Mounting Structures (Al),2024-12-10,85,85,70,15,MT,8,1,0,Accurate,OK,Adequate,82.4
+INV0033,Civil Works – Odisha,Odisha,Civil Materials,2024-12-12,85,85,68,17,MT,8,1,0,Accurate,OK,Adequate,80.0
+INV0037,Grid Infra – Purulia,West Bengal,Switchgear / Protection Equip,2024-11-22,44,44,34,10,piece,10,1,0,Accurate,OK,Adequate,77.3
+INV0020,Grid Infra – Purulia,West Bengal,Inverters / PCUs,2025-04-18,107,107,76,31,piece,10,1,0,Accurate,OK,Adequate,71.0
+INV0039,Solar Farm – Jharkhand,Jharkhand,Switchgear / Protection Equip,2024-11-03,38,38,27,11,piece,11,1,0,Accurate,OK,Adequate,71.1
+INV0025,Solar Farm – Bankura,West Bengal,HT/LT Cables,2025-01-25,32,32,20,12,meter,12,1,0,Accurate,OK,Adequate,62.5
+INV0016,Civil Works – Odisha,Odisha,Inverters / PCUs,2025-02-28,81,81,57,24,piece,12,1,0,Accurate,OK,Adequate,70.4
+INV0038,Grid Infra – Purulia,West Bengal,Switchgear / Protection Equip,2025-04-16,130,130,92,38,piece,13,1,0,Accurate,OK,Adequate,70.8
+INV0031,Civil Works – Odisha,Odisha,Civil Materials,2024-10-24,52,52,38,14,MT,14,1,0,Accurate,OK,Adequate,73.1
+INV0044,Solar Rooftop – Siliguri,West Bengal,Earthing Materials,2025-03-28,184,184,127,57,piece,14,1,0,Accurate,OK,Adequate,69.0
+INV0023,Solar Farm – Jharkhand,Jharkhand,HT/LT Cables,2025-02-25,151,151,102,49,meter,16,1,0,Accurate,OK,Surplus,67.5
+INV0014,Civil Works – Odisha,Odisha,Mounting Structures (Al),2025-03-13,179,179,113,66,MT,16,1,0,Accurate,OK,Surplus,63.1
+INV0011,Solar Farm – Jharkhand,Jharkhand,Mounting Structures (Al),2024-12-20,148,148,96,52,MT,17,1,0,Accurate,OK,Surplus,64.9
+INV0043,Civil Works – Odisha,Odisha,Earthing Materials,2024-11-16,50,50,30,20,piece,20,1,0,Accurate,OK,Surplus,60.0
+INV0045,Grid Infra – Purulia,West Bengal,Earthing Materials,2025-02-03,63,63,41,22,piece,22,1,0,Accurate,OK,Surplus,65.1
+INV0035,Grid Infra – Purulia,West Bengal,Civil Materials,2024-12-17,67,67,42,25,MT,25,1,0,Accurate,OK,Surplus,62.7
+INV0008,Solar Farm – Bankura,West Bengal,Mounting Structures (Al),2025-03-25,67,67,42,25,MT,25,1,0,Accurate,OK,Surplus,62.7

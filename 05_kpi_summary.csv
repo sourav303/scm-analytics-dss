@@ -1,0 +1,11 @@
+kpi_name,target,achieved,unit,status,paper_reported
+On-Time Material Availability %,90,89.8,%,Missed,95
+Procurement Cost Optimisation %,20,36,%,Exceeded,36
+POs Processed,40,49,count,Exceeded,50
+Inventory Accuracy %,92,98.0,%,Exceeded,96.8
+Three-Way Match Success %,90,98.0,%,Exceeded,94
+Stock-Out Incidents,5,29,count,Review,3
+Total Procurement Spend (Lakhs),0,3695.99,INR L,Informational,0
+Amended POs %,16,8.2,%,Met,16
+Preferred Vendors %,70,86.4,%,Exceeded,100
+Vendor Dashboard Coverage %,80,100,%,Exceeded,100

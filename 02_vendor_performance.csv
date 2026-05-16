@@ -1,0 +1,23 @@
+vendor_id,vendor_name,category,city,gstin_verified,total_pos,on_time_pct,delivery_score,price_score,quality_score,responsiveness,composite_score,status,total_spend_lakhs,actual_po_count
+VND09,Sungrow India,Inverters / PCUs,Gurugram,1,1,100.0,10.0,9.3,9.4,9.4,9.61,Preferred,351.13,1
+VND12,KEI Industries,HT/LT Cables,Delhi,1,1,100.0,10.0,9.2,8.1,9.5,9.33,Preferred,0.07,1
+VND14,UltraTech Cement Ltd,Civil Materials,Mumbai,1,2,100.0,10.0,9.4,7.4,9.4,9.24,Preferred,4.05,2
+VND20,Apar Industries Ltd,Earthing Materials,Silvassa,1,3,100.0,10.0,8.1,9.7,8.2,9.19,Preferred,3.09,3
+VND13,Havells India Ltd,HT/LT Cables,Noida,1,1,100.0,10.0,8.9,8.8,6.5,9.08,Preferred,0.1,1
+VND21,Galvin Electric India,Earthing Materials,Chennai,0,2,100.0,10.0,9.2,8.4,7.9,8.98,Preferred,4.17,2
+VND07,Hollaender India,Mounting Structures (Al),Delhi,0,2,100.0,10.0,9.1,8.3,7.7,8.91,Preferred,131.47,2
+VND22,Ravin Cables Ltd,Earthing Materials,Mumbai,1,2,100.0,10.0,8.4,7.7,8.4,8.9,Preferred,0.98,2
+VND08,SMA Solar Technology,Inverters / PCUs,Kolkata,1,5,100.0,10.0,7.5,9.1,7.3,8.8,Preferred,1671.97,5
+VND02,Waaree Energies Ltd,Solar PV Modules,Mumbai,1,2,100.0,10.0,7.1,8.7,8.6,8.73,Preferred,33.37,2
+VND01,Vikram Solar Ltd,Solar PV Modules,Kolkata,1,1,100.0,10.0,7.9,8.3,6.5,8.68,Preferred,33.84,1
+VND10,ABB Power Grids India,Inverters / PCUs,Vadodara,1,1,100.0,10.0,7.2,8.1,9.0,8.68,Preferred,467.74,1
+VND18,Siemens India Ltd,Switchgear / Protection Equip,Mumbai,1,4,100.0,10.0,7.3,8.7,7.4,8.67,Preferred,190.5,4
+VND11,Polycab India Ltd,HT/LT Cables,Halol,1,5,100.0,10.0,7.7,7.9,7.7,8.66,Preferred,1.09,5
+VND05,Arctech Solar India,Mounting Structures (Al),Pune,1,3,100.0,10.0,7.3,7.0,8.5,8.44,Preferred,154.14,3
+VND19,L&T Electrical Ltd,Switchgear / Protection Equip,Mumbai,1,3,100.0,10.0,6.7,7.9,8.4,8.43,Preferred,381.28,3
+VND03,Adani Solar,Solar PV Modules,Ahmedabad,1,1,100.0,10.0,6.9,7.2,8.7,8.38,Preferred,16.9,1
+VND17,Schneider Electric India,Switchgear / Protection Equip,Bangalore,1,0,94.8,6.9,9.0,9.4,6.2,8.12,Preferred,0,0
+VND04,Renewsys India,Solar PV Modules,Hyderabad,1,3,66.7,6.7,9.1,8.0,8.8,8.05,Preferred,17.62,3
+VND15,SAIL (Steel Auth India),Civil Materials,Kolkata,1,3,66.7,6.7,7.5,7.3,9.0,7.46,Approved,27.41,3
+VND16,ACC Cement Ltd,Civil Materials,Kolkata,1,2,50.0,5.0,6.8,9.5,6.1,6.8,Approved,5.27,2
+VND06,K2 Systems India,Mounting Structures (Al),Bangalore,1,2,0.0,0.0,9.0,8.6,8.3,5.75,Under Review,199.81,2

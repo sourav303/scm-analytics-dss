@@ -1,0 +1,83 @@
+quote_id,material_category,unit,vendor_name,vendor_city,quoted_price_inr,delivery_days,payment_terms,quality_score,gst_compliant,saving_vs_avg_pct,selected,selection_status,avg_price_for_category,max_price_for_category,min_price_for_category,vs_avg_pct
+QT0052,Civil Materials,MT,UltraTech Cement Ltd,Mumbai,8429.98,15,Advance 30%,7.9,1,-17.9,0,Not Selected,7619.978181818181,8429.98,6254.49,-10.6
+QT0054,Civil Materials,MT,SAIL (Steel Auth India),Kolkata,8164.56,4,60 days,9.5,1,-14.19,0,Not Selected,7619.978181818181,8429.98,6254.49,-7.1
+QT0053,Civil Materials,MT,UltraTech Cement Ltd,Mumbai,8149.64,12,60 days,7.3,1,-13.98,0,Not Selected,7619.978181818181,8429.98,6254.49,-7.0
+QT0057,Civil Materials,MT,ACC Cement Ltd,Kolkata,8066.33,8,60 days,9.5,1,-12.82,0,Not Selected,7619.978181818181,8429.98,6254.49,-5.9
+QT0060,Civil Materials,MT,ACC Cement Ltd,Kolkata,7947.88,14,Advance 30%,8.6,1,-11.16,0,Not Selected,7619.978181818181,8429.98,6254.49,-4.3
+QT0051,Civil Materials,MT,UltraTech Cement Ltd,Mumbai,7875.11,13,60 days,8.5,1,-10.14,0,Not Selected,7619.978181818181,8429.98,6254.49,-3.3
+QT0058,Civil Materials,MT,ACC Cement Ltd,Kolkata,7777.73,7,30 days,8.1,1,-8.78,0,Not Selected,7619.978181818181,8429.98,6254.49,-2.1
+QT0050,Civil Materials,MT,UltraTech Cement Ltd,Mumbai,7581.86,10,45 days,7.7,1,-6.04,0,Not Selected,7619.978181818181,8429.98,6254.49,0.5
+QT0056,Civil Materials,MT,SAIL (Steel Auth India),Kolkata,7160.0,8,45 days,8.0,1,-0.14,0,Not Selected,7619.978181818181,8429.98,6254.49,6.0
+QT0055,Civil Materials,MT,SAIL (Steel Auth India),Kolkata,6412.18,10,Advance 30%,7.3,1,10.32,0,Not Selected,7619.978181818181,8429.98,6254.49,15.9
+QT0059,Civil Materials,MT,ACC Cement Ltd,Kolkata,6254.49,6,Advance 30%,8.0,1,12.52,1,Selected,7619.978181818181,8429.98,6254.49,17.9
+QT0073,Earthing Materials,piece,Apar Industries Ltd,Silvassa,1862.47,8,Advance 30%,6.5,1,-22.13,0,Not Selected,1489.873,1862.47,1222.46,-25.0
+QT0075,Earthing Materials,piece,Apar Industries Ltd,Silvassa,1664.07,6,45 days,9.2,1,-9.12,0,Not Selected,1489.873,1862.47,1222.46,-11.7
+QT0080,Earthing Materials,piece,Ravin Cables Ltd,Mumbai,1620.74,8,30 days,6.6,1,-6.28,0,Not Selected,1489.873,1862.47,1222.46,-8.8
+QT0077,Earthing Materials,piece,Galvin Electric India,Chennai,1607.09,13,45 days,9.1,1,-5.38,0,Not Selected,1489.873,1862.47,1222.46,-7.9
+QT0078,Earthing Materials,piece,Galvin Electric India,Chennai,1496.32,11,60 days,9.4,1,1.88,0,Not Selected,1489.873,1862.47,1222.46,-0.4
+QT0082,Earthing Materials,piece,Ravin Cables Ltd,Mumbai,1496.31,13,Advance 30%,7.2,1,1.88,0,Not Selected,1489.873,1862.47,1222.46,-0.4
+QT0079,Earthing Materials,piece,Galvin Electric India,Chennai,1393.13,13,30 days,8.4,0,8.65,0,Not Selected,1489.873,1862.47,1222.46,6.5
+QT0081,Earthing Materials,piece,Ravin Cables Ltd,Mumbai,1299.58,5,45 days,6.0,1,14.78,1,Selected,1489.873,1862.47,1222.46,12.8
+QT0076,Earthing Materials,piece,Galvin Electric India,Chennai,1236.56,7,30 days,8.2,1,18.91,1,Selected,1489.873,1862.47,1222.46,17.0
+QT0074,Earthing Materials,piece,Apar Industries Ltd,Silvassa,1222.46,11,30 days,8.3,1,19.84,1,Selected,1489.873,1862.47,1222.46,17.9
+QT0043,HT/LT Cables,meter,KEI Industries,Delhi,488.31,7,30 days,9.7,1,-21.32,0,Not Selected,399.598,488.31,336.46,-22.2
+QT0046,HT/LT Cables,meter,Havells India Ltd,Noida,467.59,15,30 days,9.2,1,-16.17,0,Not Selected,399.598,488.31,336.46,-17.0
+QT0048,HT/LT Cables,meter,Havells India Ltd,Noida,433.4,7,60 days,6.1,1,-7.68,0,Not Selected,399.598,488.31,336.46,-8.5
+QT0044,HT/LT Cables,meter,KEI Industries,Delhi,417.88,12,Advance 30%,9.8,1,-3.82,0,Not Selected,399.598,488.31,336.46,-4.6
+QT0047,HT/LT Cables,meter,Havells India Ltd,Noida,416.09,6,60 days,8.1,1,-3.38,0,Not Selected,399.598,488.31,336.46,-4.1
+QT0049,HT/LT Cables,meter,Havells India Ltd,Noida,389.67,13,30 days,7.7,1,3.19,0,Not Selected,399.598,488.31,336.46,2.5
+QT0041,HT/LT Cables,meter,Polycab India Ltd,Halol,353.07,17,60 days,9.1,1,12.28,0,Not Selected,399.598,488.31,336.46,11.6
+QT0045,HT/LT Cables,meter,KEI Industries,Delhi,349.52,15,45 days,6.4,1,13.16,0,Not Selected,399.598,488.31,336.46,12.5
+QT0042,HT/LT Cables,meter,Polycab India Ltd,Halol,343.99,15,30 days,9.1,1,14.54,1,Selected,399.598,488.31,336.46,13.9
+QT0040,HT/LT Cables,meter,Polycab India Ltd,Halol,336.46,16,30 days,8.3,1,16.41,1,Selected,399.598,488.31,336.46,15.8
+QT0032,Inverters / PCUs,piece,SMA Solar Technology,Kolkata,492569.01,35,30 days,9.6,1,-12.33,0,Not Selected,458223.14900000003,492569.01,420345.56,-7.5
+QT0039,Inverters / PCUs,piece,ABB Power Grids India,Vadodara,489130.08,24,30 days,8.5,1,-11.55,0,Not Selected,458223.14900000003,492569.01,420345.56,-6.7
+QT0036,Inverters / PCUs,piece,Sungrow India,Gurugram,481395.4,26,Advance 30%,7.0,1,-9.78,0,Not Selected,458223.14900000003,492569.01,420345.56,-5.1
+QT0034,Inverters / PCUs,piece,Sungrow India,Gurugram,479981.75,23,30 days,7.0,1,-9.46,0,Not Selected,458223.14900000003,492569.01,420345.56,-4.7
+QT0031,Inverters / PCUs,piece,SMA Solar Technology,Kolkata,472386.65,23,Advance 30%,9.7,1,-7.73,0,Not Selected,458223.14900000003,492569.01,420345.56,-3.1
+QT0033,Inverters / PCUs,piece,SMA Solar Technology,Kolkata,449587.83,18,30 days,8.6,1,-2.53,0,Not Selected,458223.14900000003,492569.01,420345.56,1.9
+QT0030,Inverters / PCUs,piece,SMA Solar Technology,Kolkata,437842.87,30,60 days,8.7,1,0.15,0,Not Selected,458223.14900000003,492569.01,420345.56,4.4
+QT0037,Inverters / PCUs,piece,ABB Power Grids India,Vadodara,436147.72,35,30 days,10.0,1,0.54,0,Not Selected,458223.14900000003,492569.01,420345.56,4.8
+QT0038,Inverters / PCUs,piece,ABB Power Grids India,Vadodara,422844.62,20,30 days,9.0,1,3.57,0,Not Selected,458223.14900000003,492569.01,420345.56,7.7
+QT0035,Inverters / PCUs,piece,Sungrow India,Gurugram,420345.56,32,60 days,7.4,1,4.14,0,Not Selected,458223.14900000003,492569.01,420345.56,8.3
+QT0024,Mounting Structures (Al),MT,K2 Systems India,Bangalore,77181.99,11,45 days,6.6,1,-13.09,0,Not Selected,71387.7825,77181.99,65844.87,-8.1
+QT0019,Mounting Structures (Al),MT,Arctech Solar India,Pune,77146.4,19,Advance 30%,9.3,1,-13.04,0,Not Selected,71387.7825,77181.99,65844.87,-8.1
+QT0027,Mounting Structures (Al),MT,Hollaender India,Delhi,75845.17,16,30 days,9.4,1,-11.13,0,Not Selected,71387.7825,77181.99,65844.87,-6.2
+QT0021,Mounting Structures (Al),MT,Arctech Solar India,Pune,74042.0,23,60 days,9.1,1,-8.49,0,Not Selected,71387.7825,77181.99,65844.87,-3.7
+QT0023,Mounting Structures (Al),MT,K2 Systems India,Bangalore,73192.1,13,60 days,7.3,1,-7.24,0,Not Selected,71387.7825,77181.99,65844.87,-2.5
+QT0018,Mounting Structures (Al),MT,Arctech Solar India,Pune,72170.25,18,60 days,9.8,1,-5.74,0,Not Selected,71387.7825,77181.99,65844.87,-1.1
+QT0020,Mounting Structures (Al),MT,Arctech Solar India,Pune,69509.19,12,Advance 30%,7.8,1,-1.84,0,Not Selected,71387.7825,77181.99,65844.87,2.6
+QT0029,Mounting Structures (Al),MT,Hollaender India,Delhi,69294.64,21,45 days,8.0,1,-1.53,0,Not Selected,71387.7825,77181.99,65844.87,2.9
+QT0022,Mounting Structures (Al),MT,K2 Systems India,Bangalore,68102.59,13,60 days,7.8,1,0.22,0,Not Selected,71387.7825,77181.99,65844.87,4.6
+QT0028,Mounting Structures (Al),MT,Hollaender India,Delhi,67933.26,15,60 days,9.0,1,0.46,0,Not Selected,71387.7825,77181.99,65844.87,4.8
+QT0026,Mounting Structures (Al),MT,K2 Systems India,Bangalore,66390.93,18,Advance 30%,7.7,1,2.72,0,Not Selected,71387.7825,77181.99,65844.87,7.0
+QT0025,Mounting Structures (Al),MT,K2 Systems India,Bangalore,65844.87,12,45 days,6.3,1,3.52,0,Not Selected,71387.7825,77181.99,65844.87,7.8
+QT0008,Solar PV Modules,piece,Waaree Energies Ltd,Mumbai,22728.84,27,45 days,8.6,1,-12.8,0,Not Selected,20317.20882352941,22728.84,18540.41,-11.9
+QT0010,Solar PV Modules,piece,Adani Solar,Ahmedabad,22685.71,19,60 days,6.9,1,-12.58,0,Not Selected,20317.20882352941,22728.84,18540.41,-11.7
+QT0015,Solar PV Modules,piece,Renewsys India,Hyderabad,22181.59,30,30 days,9.1,1,-10.08,0,Not Selected,20317.20882352941,22728.84,18540.41,-9.2
+QT0001,Solar PV Modules,piece,Vikram Solar Ltd,Kolkata,22113.17,27,60 days,8.0,1,-9.74,0,Not Selected,20317.20882352941,22728.84,18540.41,-8.8
+QT0002,Solar PV Modules,piece,Vikram Solar Ltd,Kolkata,21115.91,21,Advance 30%,8.8,1,-4.79,0,Not Selected,20317.20882352941,22728.84,18540.41,-3.9
+QT0013,Solar PV Modules,piece,Renewsys India,Hyderabad,20613.64,27,Advance 30%,8.0,1,-2.3,0,Not Selected,20317.20882352941,22728.84,18540.41,-1.5
+QT0003,Solar PV Modules,piece,Vikram Solar Ltd,Kolkata,20496.6,19,Advance 30%,8.7,1,-1.72,0,Not Selected,20317.20882352941,22728.84,18540.41,-0.9
+QT0009,Solar PV Modules,piece,Adani Solar,Ahmedabad,20282.08,26,60 days,6.4,1,-0.66,0,Not Selected,20317.20882352941,22728.84,18540.41,0.2
+QT0012,Solar PV Modules,piece,Adani Solar,Ahmedabad,20060.1,29,30 days,7.8,1,0.45,0,Not Selected,20317.20882352941,22728.84,18540.41,1.3
+QT0007,Solar PV Modules,piece,Waaree Energies Ltd,Mumbai,19878.53,19,Advance 30%,9.2,1,1.35,0,Not Selected,20317.20882352941,22728.84,18540.41,2.2
+QT0006,Solar PV Modules,piece,Waaree Energies Ltd,Mumbai,19810.96,25,60 days,7.9,1,1.68,0,Not Selected,20317.20882352941,22728.84,18540.41,2.5
+QT0004,Solar PV Modules,piece,Vikram Solar Ltd,Kolkata,19531.57,27,45 days,8.5,1,3.07,0,Not Selected,20317.20882352941,22728.84,18540.41,3.9
+QT0005,Solar PV Modules,piece,Vikram Solar Ltd,Kolkata,19101.03,24,30 days,7.2,1,5.21,0,Not Selected,20317.20882352941,22728.84,18540.41,6.0
+QT0017,Solar PV Modules,piece,Renewsys India,Hyderabad,18816.09,29,30 days,7.8,1,6.62,0,Not Selected,20317.20882352941,22728.84,18540.41,7.4
+QT0014,Solar PV Modules,piece,Renewsys India,Hyderabad,18787.38,26,30 days,9.6,1,6.76,0,Not Selected,20317.20882352941,22728.84,18540.41,7.5
+QT0016,Solar PV Modules,piece,Renewsys India,Hyderabad,18648.94,28,Advance 30%,6.2,1,7.45,0,Not Selected,20317.20882352941,22728.84,18540.41,8.2
+QT0011,Solar PV Modules,piece,Adani Solar,Ahmedabad,18540.41,16,30 days,7.0,1,7.99,1,Selected,20317.20882352941,22728.84,18540.41,8.7
+QT0070,Switchgear / Protection Equip,piece,L&T Electrical Ltd,Mumbai,186872.37,37,60 days,8.8,1,-22.54,0,Not Selected,152259.60583333333,186872.37,118605.95,-22.7
+QT0068,Switchgear / Protection Equip,piece,Siemens India Ltd,Mumbai,176799.88,29,45 days,7.4,1,-15.93,0,Not Selected,152259.60583333333,186872.37,118605.95,-16.1
+QT0064,Switchgear / Protection Equip,piece,Schneider Electric India,Bangalore,170636.01,30,60 days,8.8,1,-11.89,0,Not Selected,152259.60583333333,186872.37,118605.95,-12.1
+QT0067,Switchgear / Protection Equip,piece,Siemens India Ltd,Mumbai,170114.79,28,60 days,9.9,1,-11.55,0,Not Selected,152259.60583333333,186872.37,118605.95,-11.7
+QT0072,Switchgear / Protection Equip,piece,L&T Electrical Ltd,Mumbai,158415.97,35,Advance 30%,7.8,1,-3.88,0,Not Selected,152259.60583333333,186872.37,118605.95,-4.0
+QT0061,Switchgear / Protection Equip,piece,Schneider Electric India,Bangalore,149465.21,20,30 days,7.2,1,1.99,0,Not Selected,152259.60583333333,186872.37,118605.95,1.8
+QT0062,Switchgear / Protection Equip,piece,Schneider Electric India,Bangalore,146352.92,27,60 days,8.7,1,4.03,0,Not Selected,152259.60583333333,186872.37,118605.95,3.9
+QT0063,Switchgear / Protection Equip,piece,Schneider Electric India,Bangalore,143837.35,37,60 days,7.7,1,5.68,0,Not Selected,152259.60583333333,186872.37,118605.95,5.5
+QT0066,Switchgear / Protection Equip,piece,Siemens India Ltd,Mumbai,140035.46,37,45 days,6.8,1,8.17,0,Not Selected,152259.60583333333,186872.37,118605.95,8.0
+QT0065,Switchgear / Protection Equip,piece,Siemens India Ltd,Mumbai,139400.89,27,30 days,8.9,1,8.59,0,Not Selected,152259.60583333333,186872.37,118605.95,8.4
+QT0071,Switchgear / Protection Equip,piece,L&T Electrical Ltd,Mumbai,126578.47,35,30 days,9.5,1,17.0,1,Selected,152259.60583333333,186872.37,118605.95,16.9
+QT0069,Switchgear / Protection Equip,piece,L&T Electrical Ltd,Mumbai,118605.95,37,45 days,7.1,1,22.23,1,Selected,152259.60583333333,186872.37,118605.95,22.1

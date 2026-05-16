@@ -1,0 +1,50 @@
+po_id,project_name,project_state,vendor_name,vendor_city,material_category,order_date,promised_date,actual_date,on_time,delay_days,quantity,unit,unit_price_inr,total_value_inr,total_value_lakhs,three_way_match,amended,status,delivery_status,value_band
+PO1002,Civil Works – Odisha,Odisha,Renewsys India,Hyderabad,Solar PV Modules,2024-10-09,2024-10-27,2024-10-27,1,0.0,64,piece,18485.67,1183082.88,11.83,Pass,0,Closed,On Time,High Value
+PO1039,Solar Farm – Jharkhand,Jharkhand,Siemens India Ltd,Mumbai,Switchgear / Protection Equip,2024-10-12,2024-11-03,2024-11-03,1,0.0,38,piece,132201.57,5023659.66,50.24,Pass,0,Closed,On Time,High Value
+PO1018,Solar Rooftop – Siliguri,West Bengal,SMA Solar Technology,Kolkata,Inverters / PCUs,2024-10-15,2024-11-07,2024-11-07,1,0.0,25,piece,389259.65,9731491.25,97.31,Pass,1,Closed,On Time,High Value
+PO1031,Civil Works – Odisha,Odisha,UltraTech Cement Ltd,Mumbai,Civil Materials,2024-10-15,2024-10-24,2024-10-24,1,0.0,52,MT,5945.23,309151.96,3.09,Pass,0,Closed,On Time,Medium Value
+PO1006,Solar Rooftop – Siliguri,West Bengal,Waaree Energies Ltd,Mumbai,Solar PV Modules,2024-10-18,2024-11-05,2024-11-05,1,0.0,79,piece,19621.03,1550061.37,15.5,Pass,0,Closed,On Time,High Value
+PO1024,Solar Farm – Jharkhand,Jharkhand,Polycab India Ltd,Halol,HT/LT Cables,2024-10-25,2024-11-02,2024-11-02,1,0.0,95,meter,341.72,32463.4,0.32,Pass,0,Closed,On Time,Low Value
+PO1037,Grid Infra – Purulia,West Bengal,Siemens India Ltd,Mumbai,Switchgear / Protection Equip,2024-10-30,2024-11-22,2024-11-22,1,0.0,44,piece,126131.87,5549802.28,55.5,Pass,0,Closed,On Time,High Value
+PO1021,Civil Works – Odisha,Odisha,Sungrow India,Gurugram,Inverters / PCUs,2024-10-31,2024-11-23,2024-11-23,1,0.0,91,piece,385857.45,35113027.95,351.13,Pass,0,Closed,On Time,High Value
+PO1019,Civil Works – Odisha,Odisha,SMA Solar Technology,Kolkata,Inverters / PCUs,2024-11-02,2024-12-02,2024-12-02,1,0.0,145,piece,393443.93,57049369.85,570.49,Pass,0,Closed,On Time,High Value
+PO1043,Civil Works – Odisha,Odisha,Ravin Cables Ltd,Mumbai,Earthing Materials,2024-11-09,2024-11-16,2024-11-16,1,0.0,50,piece,1362.67,68133.5,0.68,Pass,0,Closed,On Time,Low Value
+PO1013,Grid Infra – Purulia,West Bengal,Hollaender India,Delhi,Mounting Structures (Al),2024-11-10,2024-11-28,2024-11-28,1,0.0,157,MT,58453.77,9177241.89,91.77,Pass,0,Closed,On Time,High Value
+PO1042,Solar Farm – Bankura,West Bengal,Siemens India Ltd,Mumbai,Switchgear / Protection Equip,2024-11-23,2024-12-25,2024-12-25,1,0.0,31,piece,127485.21,3952041.51,39.52,Pass,0,Closed,On Time,High Value
+PO1010,Solar Rooftop – Siliguri,West Bengal,Arctech Solar India,Pune,Mounting Structures (Al),2024-11-24,2024-12-10,2024-12-10,1,0.0,85,MT,59636.13,5069071.05,50.69,Pass,0,Closed,On Time,High Value
+PO1028,Solar Farm – Jharkhand,Jharkhand,KEI Industries,Delhi,HT/LT Cables,2024-11-24,2024-12-08,2024-12-08,1,0.0,20,meter,330.28,6605.6,0.07,Pass,0,Closed,On Time,Low Value
+PO1004,Solar Rooftop – Siliguri,West Bengal,Waaree Energies Ltd,Mumbai,Solar PV Modules,2024-11-25,2024-12-18,2024-12-18,1,0.0,102,piece,17518.83,1786920.66,17.87,Pass,0,Closed,On Time,High Value
+PO1003,Civil Works – Odisha,Odisha,Renewsys India,Hyderabad,Solar PV Modules,2024-11-26,2024-12-21,2024-12-21,1,0.0,6,piece,19085.34,114512.04,1.15,Pass,0,Closed,On Time,Medium Value
+PO1033,Civil Works – Odisha,Odisha,SAIL (Steel Auth India),Kolkata,Civil Materials,2024-12-06,2024-12-12,2024-12-12,1,0.0,85,MT,6082.38,517002.3,5.17,Pass,0,Closed,On Time,High Value
+PO1047,Solar Farm – Bankura,West Bengal,Apar Industries Ltd,Silvassa,Earthing Materials,2024-12-06,2024-12-13,2024-12-13,1,0.0,72,piece,1222.37,88010.64,0.88,Pass,0,Closed,On Time,Low Value
+PO1011,Solar Farm – Jharkhand,Jharkhand,Arctech Solar India,Pune,Mounting Structures (Al),2024-12-07,2024-12-20,2024-12-20,1,0.0,148,MT,62224.09,9209165.32,92.09,Pass,0,Closed,On Time,High Value
+PO1035,Grid Infra – Purulia,West Bengal,ACC Cement Ltd,Kolkata,Civil Materials,2024-12-07,2024-12-13,2024-12-17,0,4.0,67,MT,6187.84,414585.28,4.15,Pass,0,Closed,Delayed,Medium Value
+PO1001,Solar Farm – Bankura,West Bengal,Vikram Solar Ltd,Kolkata,Solar PV Modules,2024-12-10,2024-12-31,2024-12-31,1,0.0,193,piece,17532.5,3383772.5,33.84,Pass,0,Closed,On Time,High Value
+PO1026,Solar Farm – Jharkhand,Jharkhand,Polycab India Ltd,Halol,HT/LT Cables,2024-12-11,2024-12-22,2024-12-22,1,0.0,24,meter,342.59,8222.16,0.08,Pass,0,Closed,On Time,Low Value
+PO1046,Solar Rooftop – Siliguri,West Bengal,Apar Industries Ltd,Silvassa,Earthing Materials,2024-12-11,2024-12-19,2024-12-19,1,0.0,107,piece,1329.07,142210.49,1.42,Pass,0,Closed,On Time,Medium Value
+PO1015,Solar Rooftop – Siliguri,West Bengal,SMA Solar Technology,Kolkata,Inverters / PCUs,2024-12-15,2025-01-10,2025-01-10,1,0.0,5,piece,434968.41,2174842.05,21.75,Pass,0,Closed,On Time,High Value
+PO1034,Solar Rooftop – Siliguri,West Bengal,SAIL (Steel Auth India),Kolkata,Civil Materials,2024-12-20,2024-12-25,2024-12-25,1,0.0,164,MT,6694.75,1097939.0,10.98,Fail,1,Closed,On Time,High Value
+PO1012,Civil Works – Odisha,Odisha,K2 Systems India,Bangalore,Mounting Structures (Al),2025-01-01,2025-01-14,2025-01-19,0,5.0,135,MT,61863.58,8351583.3,83.52,Pass,0,Closed,Delayed,High Value
+PO1025,Solar Farm – Bankura,West Bengal,Polycab India Ltd,Halol,HT/LT Cables,2025-01-12,2025-01-25,2025-01-25,1,0.0,32,meter,333.99,10687.68,0.11,Pass,0,Closed,On Time,Low Value
+PO1029,Solar Farm – Jharkhand,Jharkhand,SAIL (Steel Auth India),Kolkata,Civil Materials,2025-01-17,2025-01-27,2025-02-07,0,11.0,174,MT,6469.04,1125612.96,11.26,Pass,0,Closed,Delayed,High Value
+PO1040,Civil Works – Odisha,Odisha,L&T Electrical Ltd,Mumbai,Switchgear / Protection Equip,2025-01-18,2025-02-17,2025-02-17,1,0.0,24,piece,137325.65,3295815.6,32.96,Pass,1,Closed,On Time,High Value
+PO1007,Solar Farm – Jharkhand,Jharkhand,Adani Solar,Ahmedabad,Solar PV Modules,2025-01-25,2025-02-17,2025-02-17,1,0.0,95,piece,17785.69,1689640.55,16.9,Pass,0,Closed,On Time,High Value
+PO1045,Grid Infra – Purulia,West Bengal,Apar Industries Ltd,Silvassa,Earthing Materials,2025-01-26,2025-02-03,2025-02-03,1,0.0,63,piece,1253.09,78944.67,0.79,Pass,0,Closed,On Time,Low Value
+PO1016,Civil Works – Odisha,Odisha,SMA Solar Technology,Kolkata,Inverters / PCUs,2025-02-07,2025-02-28,2025-02-28,1,0.0,81,piece,429063.89,34754175.09,347.54,Pass,0,Closed,On Time,High Value
+PO1005,Solar Farm – Bankura,West Bengal,Renewsys India,Hyderabad,Solar PV Modules,2025-02-15,2025-03-06,2025-03-15,0,9.0,25,piece,18596.13,464903.25,4.65,Pass,0,Closed,Delayed,Medium Value
+PO1017,Solar Rooftop – Siliguri,West Bengal,SMA Solar Technology,Kolkata,Inverters / PCUs,2025-02-16,2025-03-16,2025-03-16,1,0.0,158,piece,401816.82,63487057.56,634.87,Pass,0,Closed,On Time,High Value
+PO1023,Solar Farm – Jharkhand,Jharkhand,Polycab India Ltd,Halol,HT/LT Cables,2025-02-16,2025-02-25,2025-02-25,1,0.0,151,meter,348.47,52618.97,0.53,Pass,0,Closed,On Time,Low Value
+PO1027,Solar Farm – Bankura,West Bengal,Havells India Ltd,Noida,HT/LT Cables,2025-02-16,2025-03-02,2025-03-02,1,0.0,28,meter,363.95,10190.6,0.1,Pass,0,Closed,On Time,Low Value
+PO1030,Solar Farm – Bankura,West Bengal,ACC Cement Ltd,Kolkata,Civil Materials,2025-02-16,2025-02-21,2025-02-21,1,0.0,19,MT,5930.41,112677.79,1.13,Pass,0,Closed,On Time,Medium Value
+PO1014,Civil Works – Odisha,Odisha,K2 Systems India,Bangalore,Mounting Structures (Al),2025-02-19,2025-03-09,2025-03-13,0,4.0,179,MT,64966.37,11628980.23,116.29,Pass,0,Closed,Delayed,High Value
+PO1032,Solar Farm – Jharkhand,Jharkhand,UltraTech Cement Ltd,Mumbai,Civil Materials,2025-02-23,2025-03-01,2025-03-01,1,0.0,15,MT,6389.22,95838.3,0.96,Pass,0,Closed,On Time,Low Value
+PO1041,Solar Farm – Bankura,West Bengal,Siemens India Ltd,Mumbai,Switchgear / Protection Equip,2025-02-27,2025-03-29,2025-03-29,1,0.0,37,piece,122296.03,4524953.11,45.25,Pass,0,Closed,On Time,High Value
+PO1048,Solar Rooftop – Siliguri,West Bengal,Galvin Electric India,Chennai,Earthing Materials,2025-03-05,2025-03-15,2025-03-15,1,0.0,152,piece,1247.63,189639.76,1.9,Pass,0,Closed,On Time,Medium Value
+PO1022,Solar Farm – Bankura,West Bengal,Polycab India Ltd,Halol,HT/LT Cables,2025-03-11,2025-03-19,2025-03-19,1,0.0,13,meter,361.0,4693.0,0.05,Pass,0,Closed,On Time,Low Value
+PO1008,Solar Farm – Bankura,West Bengal,Hollaender India,Delhi,Mounting Structures (Al),2025-03-12,2025-03-25,2025-03-25,1,0.0,67,MT,59245.78,3969467.26,39.69,Pass,0,Closed,On Time,High Value
+PO1038,Grid Infra – Purulia,West Bengal,L&T Electrical Ltd,Mumbai,Switchgear / Protection Equip,2025-03-12,2025-04-16,2025-04-16,1,0.0,130,piece,125778.66,16351225.8,163.51,Pass,1,Closed,On Time,High Value
+PO1036,Solar Rooftop – Siliguri,West Bengal,L&T Electrical Ltd,Mumbai,Switchgear / Protection Equip,2025-03-17,2025-04-16,2025-04-16,1,0.0,146,piece,126581.66,18480922.36,184.81,Pass,0,Closed,On Time,High Value
+PO1044,Solar Rooftop – Siliguri,West Bengal,Galvin Electric India,Chennai,Earthing Materials,2025-03-21,2025-03-28,2025-03-28,1,0.0,184,piece,1233.99,227054.16,2.27,Pass,0,Closed,On Time,Medium Value
+PO1009,Civil Works – Odisha,Odisha,Arctech Solar India,Pune,Mounting Structures (Al),2025-03-25,2025-04-08,2025-04-08,1,0.0,19,MT,59766.35,1135560.65,11.36,Pass,0,Closed,On Time,High Value
+PO1049,Civil Works – Odisha,Odisha,Ravin Cables Ltd,Mumbai,Earthing Materials,2025-03-25,2025-04-01,2025-04-01,1,0.0,22,piece,1373.89,30225.58,0.3,Pass,0,Closed,On Time,Low Value
+PO1020,Grid Infra – Purulia,West Bengal,ABB Power Grids India,Vadodara,Inverters / PCUs,2025-03-26,2025-04-18,2025-04-18,1,0.0,107,piece,437144.61,46774473.27,467.74,Pass,0,Closed,On Time,High Value
